@@ -1,4 +1,4 @@
-ota_url=https://raw.githubusercontent.com/MobiusM/ResurrectionRemix-v5.6.5-g2m-OTA/master/g2m.xml
+ota_url=https://raw.githubusercontent.com/MobiusM/ResurrectionRemix_g2m_OTA/master/NougatOta.xml
 release_type=Stable
 device_name=ro.rr.device
 version_source=ro.rr.version
